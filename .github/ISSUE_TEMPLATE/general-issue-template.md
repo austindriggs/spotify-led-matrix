@@ -15,9 +15,9 @@ Summarize the issue in 1-3 sentences.
 
 * [ ] List the tasks that need completed.
 
-## PURPOSE
+## DESCRIPTION
 
-Describe the general purpose of this issue and **WHY** the tasks were performed.
+Describe the general work completed and why the tasks were performed.
 
 ## NOTES
 
