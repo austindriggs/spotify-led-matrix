@@ -1,6 +1,6 @@
 # Welcome to my first project!
 
-My name is Austin Driggs and I am an Electrical Engineering student at WVU. 
+My name is Austin Driggs and I am an Electrical Engineering student at WVU. I'm going to update this readme as needed.
 
 Please check out my social links:
 * [LinkedIn](https://www.linkedin.com/in/austindriggs/)
