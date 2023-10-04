@@ -21,7 +21,7 @@ Describe the general work completed and why the tasks were performed.
 
 ## NOTES
 
-Put any additional notes here; mostly what was learned.
+Put any additional notes here.
 
 ## SUPPORT
 
