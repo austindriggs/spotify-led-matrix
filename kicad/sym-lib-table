@@ -1,4 +1,5 @@
 (sym_lib_table
   (version 7)
   (lib (name "spotify-led-matrix")(type "KiCad")(uri "${KIPRJMOD}/spotify-led-matrix.kicad_sym")(options "")(descr ""))
+  (lib (name "CP2102N-A01-GQFN28")(type "KiCad")(uri "${KIPRJMOD}/CP2102N-A01-GQFN28.kicad_sym")(options "")(descr ""))
 )
