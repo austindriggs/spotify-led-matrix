@@ -11,6 +11,14 @@ The purpose of this project is to of course learn some new technical skills, but
 
 ## Important Information
 
-### KiCAD
+### Project Epic
 
-- The KiCAD project is for v7.
+Please see the [Project Epic](https://github.com/austindriggs/spotify-led-matrix/issues/16) for a list of all issues and tasks completed and the order they were completed in.
+
+### Hardware
+
+The KiCAD project is for v7.
+
+### Software
+
+I plan to use python.
