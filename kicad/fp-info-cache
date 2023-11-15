@@ -1,4 +1,4 @@
-21943262129022038
+21953461731158944
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90713,6 +90713,20 @@ varistor
 2
 2
 spotify-led-matrix
+54-00166
+
+
+0
+3
+3
+spotify-led-matrix
+CUI_ACZ11BR1E-20FD1-20C
+
+
+0
+7
+7
+spotify-led-matrix
 ESP32-WROOM-32E
 
 
@@ -90727,12 +90741,33 @@ Integrated Circuit
 7
 7
 spotify-led-matrix
+MOLEX_2169900003
+
+
+0
+16
+16
+spotify-led-matrix
+MOLEX_2171750001
+
+
+0
+10
+7
+spotify-led-matrix
 QFN50P500X500X80-29N
 
 
 0
 29
 29
+spotify-led-matrix
+SAMTEC_SSQ-110-02-G-D
+
+
+0
+20
+20
 spotify-led-matrix
 SOD2513X120N
 
@@ -90754,6 +90789,13 @@ SOT95P275X110-5N
 0
 5
 5
+spotify-led-matrix
+SW_TL3301DF160QG
+
+
+0
+4
+2
 spotify-led-matrix
 TRANS_SS8050-G
 
