@@ -4,6 +4,7 @@
 *.step
 *.stp
 *.wrl
+*-backups
 
 # Temporary files
 *.000

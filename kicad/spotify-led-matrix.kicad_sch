@@ -7021,8 +7021,8 @@
     (pin "A" (uuid 2cf37fb3-0773-48d4-b257-20a2f877efd5))
     (pin "B" (uuid b24509f0-5702-4745-8694-7882d8736f3b))
     (pin "C" (uuid 427efa52-7119-4d22-a806-9d7311474589))
-    (pin "P2" (uuid e35187a3-991e-4161-907a-a07735ca8f13))
     (pin "P1" (uuid eb3a6d4b-eb1c-4b3a-b29c-d8d83a293264))
+    (pin "P2" (uuid e35187a3-991e-4161-907a-a07735ca8f13))
     (pin "S1" (uuid 65815776-f00c-45dd-ace0-c7b31017358a))
     (pin "S2" (uuid 498989ec-e107-4262-a6a4-5d00fe63f59c))
     (instances
