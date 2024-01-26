@@ -3743,7 +3743,7 @@
     (uuid 00015233-d070-4de2-b8c9-60a8f5fb13fb)
   )
   (text "VBUS serves no purpose and only lights up an LED when plugged in.\n\nConnecting the USB shield directly to GND can sometimes cause problems (if the two \ndon't exactly \"agree\" on what GND is), so a DNP is used to prevent this issue."
-    (at 55.245 280.67 0)
+    (at 55.245 281.94 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 0cc0f8bf-25e1-42cb-a015-30625f4611ac)
   )
@@ -3768,8 +3768,8 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 4b4170c5-2803-4a94-b33d-f77ce70c284d)
   )
-  (text "This can be helpful to \"minimize reflections and improve \nthe quality of the signal because it is split in two places\"."
-    (at 185.42 271.145 0)
+  (text "Minimizes reflections and improves the quality of\nthe signal because it is split in two places."
+    (at 191.77 268.605 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 624c5e98-5458-4267-a385-ddd01e661be7)
   )
@@ -7667,7 +7667,7 @@
   (symbol (lib_id "spotify-led-matrix:ESP32-WROOM-32E") (at 222.885 114.3 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b576a765-a3a6-4865-b9d0-7af89cdf2f62)
-    (property "Reference" "U1" (at 221.615 111.76 0)
+    (property "Reference" "U1" (at 220.98 111.76 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "ESP32-WROOM-32E" (at 212.725 114.3 0)
