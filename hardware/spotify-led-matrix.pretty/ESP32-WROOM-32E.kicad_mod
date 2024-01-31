@@ -131,9 +131,9 @@
       )
     )
   )
-  (model "${KIPRJMOD}/3dModels/ESP32-WROOM-32E.step"
-    (offset (xyz 0 3 0))
+  (model "${KIPRJMOD}/spotify-led-matrix.pretty/ESP32-S3-WROOM-2.STEP"
+    (offset (xyz 0 -0.1750000056 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz -90 0 0))
+    (rotate (xyz 0 0 0))
   )
 )
