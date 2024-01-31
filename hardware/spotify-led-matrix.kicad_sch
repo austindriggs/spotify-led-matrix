@@ -7593,7 +7593,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 69.215 184.785 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid b354b026-9e87-47db-8e88-2d31694a1dde)
     (property "Reference" "C14" (at 62.865 184.785 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -7610,8 +7610,8 @@
     (property "Vendor" "Digikey" (at 69.215 184.785 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d38e6cbb-ce83-4dd8-8d25-7effdf30c918))
-    (pin "2" (uuid 578a62bb-db08-42e9-8ff6-f93a53bae63a))
+    (pin "1" (uuid 98c02bf5-deac-4f42-a6d9-a983dc94d607))
+    (pin "2" (uuid 059751c9-cd48-4c5e-90aa-7feede6c68f8))
     (instances
       (project "spotify-led-matrix"
         (path "/e8265119-8dca-4f29-8463-0c95468306bc"
@@ -8666,7 +8666,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 69.215 147.32 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid eb058076-d020-4a1b-9c2f-4f6a947d1240)
     (property "Reference" "C7" (at 62.865 147.32 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -8683,8 +8683,8 @@
     (property "Vendor" "Digikey" (at 69.215 147.32 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid df68aa42-4cdf-4350-9f47-3ffc44407cce))
-    (pin "2" (uuid adf7696b-1992-4be9-96e8-cdff287e1d66))
+    (pin "1" (uuid 0e7f9ff5-991f-4433-b025-9ec21aa208fc))
+    (pin "2" (uuid 23a46985-5c6c-4f4a-ba93-308b5055c379))
     (instances
       (project "spotify-led-matrix"
         (path "/e8265119-8dca-4f29-8463-0c95468306bc"
@@ -8870,7 +8870,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 69.215 106.68 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid f45ee7d6-d3c7-488f-a156-0db3c1d64d41)
     (property "Reference" "C12" (at 62.865 106.68 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -8887,8 +8887,8 @@
     (property "Vendor" "Digikey" (at 69.215 106.68 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e8a243d8-27b9-4ee8-95b3-3c263ce2281e))
-    (pin "2" (uuid d6dbb988-99d3-4770-9047-0146da8e7a85))
+    (pin "1" (uuid c6b855bb-179a-4090-8586-de598db19284))
+    (pin "2" (uuid 444fc60b-d524-4866-b148-5ab5b6304d38))
     (instances
       (project "spotify-led-matrix"
         (path "/e8265119-8dca-4f29-8463-0c95468306bc"
