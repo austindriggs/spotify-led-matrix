@@ -3,6 +3,8 @@
 
 *.wrl
 *-backups
+\#*
+.\#*
 
 # Temporary files
 *.000
@@ -35,3 +37,7 @@ fp-info-cache
 *.xml
 *.csv
 *.html
+
+# Additional files I noticed
+*~
+\#auto_saved_files\#
