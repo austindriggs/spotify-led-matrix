@@ -3682,7 +3682,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 0cc0f8bf-25e1-42cb-a015-30625f4611ac)
   )
-  (text "NOTE: GPIO 34-39\nare input only." (at 163.195 131.445 0)
+  (text "NOTE: GPIO 34-39\nare input only." (at 159.385 134.62 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 1059609f-d7ef-4daa-89be-7f777412fd49)
   )
@@ -3690,8 +3690,8 @@
     (effects (font (size 2.54 2.54) bold) (justify left bottom))
     (uuid 22425ced-2c21-46b4-9b81-9da8907e5a52)
   )
-  (text "Caps of lower value\nshould go closer to\ndevice on the layout."
-    (at 161.29 116.205 0)
+  (text "Decoupling Caps of lower value should\ngo closer to device on the layout."
+    (at 153.035 145.415 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 2ede31ed-dc4f-484d-b887-2e20e97320b1)
   )
