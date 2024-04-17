@@ -10,7 +10,7 @@
     (tstamp 498bd9a3-d363-4db6-9edd-34893263159b)
   )
   (fp_text user "PCB EDGE" (at 6.64 1.9) (layer "F.Fab")
-      (effects (font (size 0.32 0.32) (thickness 0.15)))
+      (effects (font (size 0.32 0.32) (thickness 0.08)))
     (tstamp 992956a1-bf51-45ed-bf2e-39b6473692ec)
   )
   (fp_poly
@@ -1169,4 +1169,9 @@
   (pad "S1" thru_hole oval (at -5.62 0) (size 1 2) (drill oval 0.6 1.8) (layers "*.Cu") (tstamp 356cce75-8d19-4ff5-9f54-76b048088ba1))
   (pad "S1" thru_hole oval (at 5.62 -4) (size 0.9 1.8) (drill oval 0.6 1.4) (layers "*.Cu") (tstamp 6763f3cc-fc0f-4fa4-85e7-d9bd3612ddf5))
   (pad "S1" thru_hole oval (at 5.62 0) (size 1 2) (drill oval 0.6 1.8) (layers "*.Cu") (tstamp 1d462af9-1c36-48c3-92f5-bb6858aa3017))
+  (model "${KIPRJMOD}/spotify-led-matrix.pretty/2169900003.stp"
+    (offset (xyz 0 1.5 1))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 180))
+  )
 )
